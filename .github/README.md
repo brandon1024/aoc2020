@@ -10,4 +10,5 @@ Unlike [my attempt in 2018](https://github.com/brandon1024/aoc2018), the solutio
 - Day 1: CMake script
 - Day 2: Vimscript
 - Day 3: Linux Kernel Character Device Module
+- Day 4: Sed
 
